@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="HOME">宿舍管理</string>
+    <string name="std">住宿生</string>
+    <string name="admin">管理員</string>
+    <string name="announce">宿舍公告</string>
+    <string name="washing">洗衣烘衣</string>
+    <string name="pack">包裹狀態</string>
+    <string name="notice">鎖屏提醒</string>
+    <string name="column">公佈欄</string>
+    <string name="packnotice">包裹提醒</string>
+    <string name="fixnotice">報修通知</string>
+    <string name="washingstate">洗衣烘衣狀態</string>
+</resources>
